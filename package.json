@@ -1,0 +1,25 @@
+{
+  "name": "perspectiva_genero",
+  "version": "0.0.1",
+  "description": "Web con perspectiva de genero",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "perspectiva",
+    "genero",
+    "mujer"
+  ],
+  "author": "DevCesarHdez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
