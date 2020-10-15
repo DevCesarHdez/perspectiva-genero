@@ -25,6 +25,7 @@ main h2{
 main .art{
   margin-top: 2rem;
   padding-left: 2rem;
+  padding-right: 2rem;
   display: flex;
 }
 main .art img{
